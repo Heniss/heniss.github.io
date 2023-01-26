@@ -12,13 +12,13 @@ body {
 .naglowek li {
     float: left;
     font-family: arial;
-    font-size: 1.5vw;
+    font-size: 20px;
 }
 .naglowek li a {
     display: block;
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 30px;
+    padding: 20px;
     text-decoration: none;
 }
 .naglowek a:hover {
