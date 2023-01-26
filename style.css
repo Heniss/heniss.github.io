@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(247, 237, 223);
 }
 
 .naglowek ul {
@@ -7,20 +7,20 @@ body {
     margin: 0px;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #5f5f5f;
 }
 .naglowek li {
     float: left;
     font-family: arial;
-    font-size: 20px;
+    font-size: 1.5vw;
 }
 .naglowek li a {
     display: block;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
     text-decoration: none;
 }
 .naglowek a:hover {
-    background-color: rgba(8, 8, 8, 0.2);
+    background-color: rgba(55, 50, 50, 0.2);
 }
