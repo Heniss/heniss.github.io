@@ -1,3 +1,3 @@
-function pokaztekst() {
-    document.getElementById("kocham_maje").style.display = 'block';
+const showImage = () => {
+    document.getElementById("first").style.display = 'block';
 }
